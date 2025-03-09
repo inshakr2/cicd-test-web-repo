@@ -1,4 +1,4 @@
-FROM tomcat:9.0
+FROM tomcat:9.0.99
 
 LABEL org.opencontainers.image.authors="edowon0623@gmail.com"
 
